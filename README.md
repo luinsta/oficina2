@@ -7,7 +7,7 @@ Este repositório contém a documentação e o código do sistema de gestão par
 ### 1.1. Equipe
 * Felipe Bezerra de Almeida - RA: 2102617
 * Lucas Coller
-* Luís Fernando
+* Luís Fernando - RA: 2525887
 * Matheus Grossi
 * Vinicius Henrique
 
